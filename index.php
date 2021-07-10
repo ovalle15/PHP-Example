@@ -149,7 +149,7 @@ if ($action == 'view_course') {
 </main>
 
 <footer>
-    <p>&copy; <?php echo date("Y"); ?> Suresh Kalathur</p>
+    <p>&copy; <?php echo date("Y"); ?> Andrea Ovalle</p>
 </footer>
 </body>
 </html>
